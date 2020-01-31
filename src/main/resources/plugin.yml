@@ -2,7 +2,7 @@ name: Laserlord_Utils
 version: ${project.version}
 main: laserlord.utils.Startup
 api-version: "1.13"
-prefix: "[LaserUtils]"
+prefix: LaserUtils
 authors: [Laserlord]
 description: A plugin which provides some useful commands
 commands:
