@@ -1,6 +1,6 @@
 name: Laserlord_Utils
 version: ${project.version}
-main: laserlord.utils.Utils
+main: laserlord.utils.Startup
 api-version: "1.13"
 prefix: "[LaserUtils]"
 authors: [Laserlord]
