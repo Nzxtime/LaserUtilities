@@ -1,0 +1,7 @@
+name: Laserlord Utils
+version: ${project.version}
+main: laserlord.utils.Utils
+api-version: 1.13
+prefix: [LaserUtils]
+authors: [Laserlord]
+description: A plugin which provides some useful commands
