@@ -1,7 +1,20 @@
-name: Laserlord Utils
+name: Laserlord_Utils
 version: ${project.version}
 main: laserlord.utils.Utils
-api-version: 1.13
-prefix: [LaserUtils]
+api-version: "1.13"
+prefix: "[LaserUtils]"
 authors: [Laserlord]
 description: A plugin which provides some useful commands
+commands:
+  heal:
+    description: heals players
+  feed:
+    description: feeds players
+  wc:
+    description: clears the weather and changes the time to day
+  gm1:
+    description: sets players to GameMode 1
+  gm0:
+    description: sets players to GameMode 0
+  rc:
+    description: reloads the server
